@@ -139,16 +139,16 @@ button:hover{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(/img/Marine\ Life.jpeg);
+    background-image: url(/img/MarineLife.jpeg);
 }
 .card2{
-    background-image: url(/img/Ocean\ Ecosystems.jpg);
+    background-image: url(/img/OceanEcosystems.jpg);
 }
 .card3{
-    background-image: url(/img/Conservation\ Efforts.jpg);
+    background-image: url(/img/ConservationEfforts.jpg);
 }
 .card4{
-    background-image: url(/img/Ocean\ Exploration.jpg);
+    background-image: url(/img/OceanExploration.jpg);
 }
 .card:hover{
     transform: translateY(-10px);
